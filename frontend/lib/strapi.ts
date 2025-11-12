@@ -1,5 +1,4 @@
 import qs from "qs";
-import { tr } from "zod/v4/locales";
 export const STRAPI_BASE_URL =
   process.env.STRAPI_BASE_URL || "http://localhost:1337";
 
